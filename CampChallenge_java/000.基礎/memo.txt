@@ -1,0 +1,6 @@
+デバイス名　   DESKTOP-0PI69NB
+プロセッサ　   Intel(R) Core(TM)i5-2520M CPU @ 2.50GHz
+実装 RAM       4.00 GB
+デバイス ID    39FACE12-149B-4198-A519-8C1E9A164492
+プロダクト ID  00326-03507-78017-AAOEM
+システムの種類 64-bit operating system,x64-based prosessor
