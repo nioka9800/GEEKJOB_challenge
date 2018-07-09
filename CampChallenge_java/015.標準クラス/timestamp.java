@@ -13,10 +13,9 @@ import java.util.Calendar;
 
 public class timestamp {
     public static void main(String[] args){
-        Calendar c = Calendar.getInstance();
+        Date d = new Date(2016,0,1,00,00,00);
         
-        c.set(2016,0,1,00,00,00);
-        System.out.println(c.getTime());
+        System.out.println(d.getTime());
         
     }
     
